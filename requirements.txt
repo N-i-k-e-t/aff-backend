@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+google-api-python-client
+google-auth
+google-cloud-firestore
+google-cloud-secret-manager
+google-generativeai
+pydantic
+python-dotenv
+requests
+cors
